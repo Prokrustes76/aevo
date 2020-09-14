@@ -108,6 +108,7 @@ button {
   font-size: 2.5em;
   margin : 0px 0px;
   outline: none;
+  line-height: 0px;
 }
 
 button:hover, #spy:hover, #write:hover {
