@@ -67,7 +67,7 @@
 .main {
   position: relative;
   grid-column: 1 / -1;
-  background-image: url('./rsc/pic1.png');
+  background-image: url('./rsc/pic1.jpg');
   background-repeat: no-repeat;
   background-position: 50% 50%;
 }
