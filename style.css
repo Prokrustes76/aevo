@@ -1,0 +1,164 @@
+* {
+  padding: 1px;
+  margin:  1px;
+}
+
+#begruessung {
+  max-width: 50px;
+  margin: 0px; 
+  padding: 0px;
+}
+
+#clock {
+  position: absolute;
+  top: -5%;
+  right: -1%;
+}
+
+.noMargin {
+  margin: 2px -3px;
+}
+
+.lightblue {
+  background: rgb(126, 180, 216);
+}
+
+.gradient {
+  background-image: linear-gradient(to bottom right, rgb(126, 180, 216), lightblue)
+}
+
+.darkblue {
+  background: rgb(0, 107, 179); 
+}
+
+.green {
+  background: rgb(51, 165, 50);
+}
+
+.container {
+  display: grid;
+  grid-template-columns: repeat(20, 1fr);
+  grid-template-rows: 150px 550px 50px;
+  grid-gap: 6px;
+  height: 800px;
+  max-width: 1200px;
+  margin: auto;
+}
+
+.container > div {
+  height: auto;
+  font-size: 25;
+}
+
+.aevo {
+  grid-column: 1/ 11;
+  background-image: url('./rsc/pic0.png') !important;
+  background-size: 100% 100% !important;
+
+}
+
+.dozenten {
+  position: relative;
+  grid-column: 11/ -1;
+  padding: 0px 20px;
+  min-height: 80%;
+}
+
+.main {
+  position: relative;
+  grid-column: 1 / -1;
+  background-image: url('./rsc/pic1.jpg');
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+}
+
+#buttonLeft {
+  grid-column: 1 / 2;
+}
+
+#vorherigeFrage {
+  grid-column: 2 / 5;
+}
+
+#foot {
+  grid-column:  5 / 17;
+}
+
+#naechsteFrage {
+  grid-column: 17 / 20;
+}
+
+#buttonRight {
+  grid-column:  20 / -1;
+}
+
+ul {
+  max-width: 60%;
+}
+
+li {
+  font-size: 1.4em;
+  margin: 0px 25px;
+  padding:0px 0px;
+}
+
+button {
+  width: 100%;
+  height: 100%;
+  font-size: 2.5em;
+  line-height : 0em;
+  margin : 0px 0px;
+  outline: none;
+}
+
+button:hover, #spy:hover, #write:hover {
+  background-color: rgb(10, 209, 10);
+}
+
+.themen {
+  text-align: center;
+  border-radius: 25px;
+  width: 40%;
+  margin: 3.3% auto;
+  padding: .5%;
+}
+
+.frageButton {
+  font-size: 2em;
+  margin: 0px 0px;
+  background: rgb(190, 214, 238);
+  color: darkblue;
+}
+
+.frageButton:hover {
+  background: lightskyblue;
+}
+
+.hoverBar:hover {
+  background-color: rgb(190, 214, 238) !important
+}
+
+#spy, #write {
+  background-color: rgb(51, 165, 50);
+  position: absolute;
+  line-height: 80%;
+  padding: -5px 0px;
+  margin: 0px;
+  top: 65%;
+  right: 2%;
+  width: 60px;
+  height: 60px;
+}
+
+#write {
+  top: 50%;
+}
+
+#textArea {
+  min-height: 20vh;
+  min-width: 98.5%;
+  max-width: 98.5%;
+  max-height: 20vh;
+  font-size: 1em;
+}
+
