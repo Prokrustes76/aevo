@@ -39,8 +39,7 @@ window.onload = function() {
 };
 
 function raffaelaClicked() {
-  raffaelaClicks = (raffaelaClicks + 1) % 3;
-  divRaffaela.innerHTML = ['"Ferrari"', 'Ferrero-Rocher', 'Ferraro(?)'][raffaelaClicks];
+  divRaffaela.innerHTML = 'Ferrari'
 }
 
 function andereFrage(direction) {
@@ -70,7 +69,7 @@ function adjustToNewPhase() {
 
   if (document.getElementById('nachnameRaffaela')) {
     divRaffaela = document.getElementById('nachnameRaffaela');
-    divRaffaela.innerHTML = '"Ferrari"';
+    divRaffaela.innerHTML = 'Ferraro';
   }
   divVorherige.innerHTML = phase == 3 ? '<button onclick="andereFrage(-1)" class="frageButton">◀ Frage</button>' : '';
   divNaechste.innerHTML = phase == 3 ? '<button onclick="andereFrage(1)" class="frageButton">Frage ▶</button>' : '';
