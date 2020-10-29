@@ -39,7 +39,7 @@ window.onload = function() {
 };
 
 function raffaelaClicked() {
-  divRaffaela.innerHTML = 'Ferrari'
+  divRaffaela.innerHTML = 'Ferraro'
 }
 
 function andereFrage(direction) {
