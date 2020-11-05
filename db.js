@@ -31,6 +31,10 @@ let Themen =
         Antwort: 'Der Auszubildende ist die Person, die eine Ausbildung absolviert.<br/><br/>Ausbildender ist, wer andere Personen zur Berufsausbildung einstellt, er ist Vertragspartner des AUsbildungsvertrags (§10 BBiG). Dies können sowohl natürliche, wie auch juristische Personen sein.<br/><br/>Der Ausbilder ist der Mensch (natürliche Person), der v.a. praktisch für die Berufsausbildung verantwortlich ist. '
       },
       {
+        Frage: 'Was versteht man unter einem Ausbildungsbeauftragten?',
+        Antwort: 'Sie vermitteln überwiegend spezifische Fertigkeiten, welche der Ausbidlungsplan vorsieht. Er steht mit dem Ausbilder in regelmäßigem Austausch.<br/><br/>● Seine Persönlichkeit sollte geeignet sein für den Umgang mit jungen Menschen<br/>● Er sollte über methodische Kompetenz verfügen.<br/>● Er sollte pädagogisches Grundwissen besitzen.<br/>● Er muss beruflich erfahren sein und Fachwissen besitzen.'
+      },
+      {
         Frage: 'Erläutern Sie den Begriff Berufsgrundbildungsjahr!',
         Antwort: 'Es bietet die Möglichkeit für Schulabgänger, die keine reguläre Lehrstelle gefunden haben, ein staatliches Ausbildungsjahr bzw. berufsvorbereitendes Jahr (BvB) zu absolvieren.<br/><br/>Es dient der Berufsvorbereitung und kann von betrieblichen, außerbetrieblichen oder schulischen Trägern durchgeführt werden.'
       },
@@ -51,6 +55,10 @@ let Themen =
         Antwort: '● Das Berusbildungsgsetz<br/>● Das Betriebsverfassungsgesetz<br/>● Das Jugendarbeitsschutzgesetz<br/>● Das Arbeitszeitgesetz<br/>● Das Kündigungsschutzgesetz<br/>● Der Tarifvertrag<br/>● Die jeweiligen Ausbildungsordnungen'
       },
       {
+        Frage: 'Unterscheiden Sie die beiden privatrechtliche und die öffentlich-rechtliche Ebene bei der Berufsausbildung!',
+        Antwort: '<b>Privatrechtlich:</b> Hier beschließen zwei gleichberechtigte Vertragspartner (Ausbildender und Auszubildender) im Rahmen der Vertragsfreiheit ein Rechtverhältnis. Bei Streitigkeiten wird ein Schlichtungsverfahren der Kammer eingeleitet, bzw. das Arbeitsgericht angerufen.<br/><br/><b>Öffentlich-rechtlich:</b> Die eben genannten Vertragspartner treten in Beziehung zu einer übergeordneten Kammer. Zuständiges Gericht ist hier das Verwaltungsgericht.'
+      },
+      {
         Frage: 'Welche Themen sind in der Ausbildungsordnung geregelt?',
         Antwort: '● Die genaue Berufsbezeichnung<br/>● Die Ausbildungsdauer<br/>● Die Inhalte in sachlicher und zeitlicher Gliederung (Ausbildungsrahmenplan)<br/>● Berufliche Mindestanforderungen bzgl. Fertigkeiten, Kenntnissen und Fähigkeiten<br/>● Die Bestehensbedingungen der Abschlussprüfung' 
       },
@@ -67,44 +75,48 @@ let Themen =
         Antwort: 'Der Rahmenlehrplan enthält die fachtheoretischen Ausbildungsthemen, die in den Berufsschulen zum Gegenstand des Unterrichts gemacht werden.<br/><br/>Auch er ist sachlich (nach Lernfeldern) und zeitlich (nach Ausbildungsjahren) gegliedert und geht zurück auf Beschlüsse der Kultusministerkonferenzen (KMK).'
       },
       {
+        Frage: 'Welches sind typische Aufgaben und Zuständigkeiten des Ausbildenden?',
+        Antwort: 'Er entscheidet über die Bewerberauswahl und schließt mit dem Auszubildenden den Ausbildungsvertrag ab.<br/><br/>Der Ausbildende ist zudem rechtlicher Ansprechpartner für die Kammern und Berufsschulen.<br/><br/>Gegenüber allen an der Ausbildung beteiligten ist er weisungsbefugt. Tritt er nicht persönlich als Ausbilder auf, so muss er einen haupt- oder nebenberuflichen Ausbilder beauftragen.'
+      },
+      {
+        Frage: 'Welches sind typische Aufgaben und Zuständigkeiten des Ausbilders?',
+        Antwort: 'Er ist zuständig für die Planung, Durchführung und Kontrolle der Ausbildung. Hierfür erstellt er einen Ausbildungsplan und ist im Betrieb präsenter Ansprechpartner für die Auszubildenden und eventuelle Ausbildungsbeauftragten.<br/><br/>Er vermittelt dem Auszubildenden nicht nur Fachwissen, sondern soll diesen auch beraten, coachen und (sittlich) erziehen.<br/><br/>Ihm obliegt zudem die Kontrolle der Berichtsheftführung des Auszubildenden.'
+      },
+      {
         Frage: 'Wann liegt die fachliche Eignung des Ausbilders vor?',
         Antwort: 'Wenn das Ausbildungspersonal die erforderlichen beruflichen und die berufs- und arbeitspädagogischen Fertigkeiten, Kenntnisse und Fähigkeiten besitzt, die für die Vermittlung der Ausbildungsinhalte erforderlich sind.<br/><br/>In der Regel geht dies einher mit dem Erreichen eines entsprechenden Berufsabschlusses und einer angemessenen Arbeitszeit in diesem Beruf.'
       },
       {
-        Frage: '',
-        Antwort: ''
+        Frage: 'Was versteht man unter einem Ausbildungsverbund?',
+        Antwort: 'Es ist der Zusammenschluss kleinerer Unternehmen mit dem Ziel, gemeinsam die Vorraussetzungen der Ausbildungsordnung zu erfüllen.<br/><br/>Der Ausbildende verbringt Teile seiner Ausbildungszeit in den unterschiedlichen Unternehmen.'
       },
       {
-        Frage: '',
-        Antwort: ''
+        Frage: 'Was ist zu verstehen unter der "Überbetrieblichen Ausbildung"?',
+        Antwort: 'Durch überbetriebliche Ausbildungseinrichtuzngen werden wesentliche Ausbildungsinhalte vermittelt, die der reguläre Ausbildungsbetrieb nicht abdecken kann.<br/><br/>Hier werden betriebsübergreifende Ausbildungsinhalte (Fertigkeiten, Kenntnisse und Fähigkeiten) vermittelt.'
       },
       {
-        Frage: '',
-        Antwort: ''
+        Frage: 'Was versteht man unter der "Außerbetrieblichen Ausbildung?"',
+        Antwort: 'Sie wird außerhalb der schulischen und betrieblichen Berufsbildung in anerkannten (meist privaten) Einrichtungen durchgeführt.<br/><br/>Sozial oder anderweitig benachteiligten Jugendlichen wird somit der Einstieg in eine Ausbildung und den Arbeitsmarkt ermöglicht. Auch hier steht am Ende der anerkannte Ausbildungsabschluss.'
       },
       {
-        Frage: '',
-        Antwort: ''
+        Frage: 'Welches Ziel verfolgt die Berufsausbildungsvorbereitung?',
+        Antwort: 'Sie dient dazu in einem anerkannten Ausbildungsberuf die Grundlagen zum Erwerb der beruflichen Handlungsfähigkeit zu vermitteln.<br/><br/>In Betracht kommen hierfür lernbeeinträchtigte oder sozial benachteiligte Personen, die noch keine Ausbildungsreife aufweisen.'
       },
       {
-        Frage: '',
-        Antwort: ''
+        Frage: 'Welche Akteure wirken mit an der Berufsausbildung?',
+        Antwort: '● Der Auszubildende<br/>● Der Ausbildende<br/>● Der Ausbilder<br/>● Der Ausbildungsbeauftragte<br/>● Die zuständige Stelle (Kammer)'
       },
       {
-        Frage: '',
-        Antwort: ''
+        Frage: 'Nennen Sie die wichtigsten Aufgaben der zuständigen Kammer!',
+        Antwort: '● Die Eignung des Ausbildungunsbetriebs prüfen<br/>● Die Eignung des Ausbildenden und Ausbilders prüfen<br/>● Prüfungen organisieren und durchführen<br/>● Pflege des Verzeichnisses der Berufsausbildungsverhältnisse<br/>● Individuelle Entscheidung über Änderung der Ausbildungszeit<br/>● Beratung in Ausbildungsfragen<br/>● Das Erlassen von Vorschriften und Richtlinien zur Ausbildung.<br/>● Schlichtung bei Streitigkeiten der Ausbildungspartnern<br/>'
       },
       {
-        Frage: '',
-        Antwort: ''
+        Frage: 'In welchem Zahlenverhältnis sollten betriebliche Fachkräfte und Auszubildende stehen?',
+        Antwort: '● Für 1 Auszubildenden werden 1 bis 2 Fachkräfte benötigt.<br/><br/>● Für 2 Auszubildenden werden 3 bis 5 Fachkräfte benötigt.<br/><br/>● Für 3 Auszubildenden werden 6 bis 8 Fachkräfte benötigt.<br/><br/>● Ab dann 3 weitere Fachkräfte für jeden Auszubildenden.'
       },
       {
-        Frage: '',
-        Antwort: ''
-      },
-      {
-        Frage: '',
-        Antwort: ''
+        Frage: 'Wie viele Auszubildende dürfen pro Ausbilder angestellt sein?',
+        Antwort: 'Ein nebenberuflicher Ausbilder, der noch anderen beruflichen Tätigkeiten nachgeht, darf durchschnittlich nicht mehr als 3 Auszubildende begleiten.<br/><br/>Bei einem hauptberuflichen Ausbilder erhöht sich sie Zahl auf durchschnittlich 16 Auszubildende. '
       },
       {
         Frage: '',
