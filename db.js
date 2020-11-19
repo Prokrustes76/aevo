@@ -211,5 +211,13 @@ let Themen =
         Frage: 'Warum ist es wichtig, Feinlernziele zu formulieren?',
         Antwort: 'Feinlernziele geben eine Orientierung. Danach können die Ausbildungsmethode, der Lernort, der Lernbereich, die Kompetenzen usw. gewählt werden. Nach dem Lernziel sind die didaktischen Prinzipien aufzubauen.<br/><br/>Der Auszubildende weiß genau, was von ihm erwartet wird und was er mit der Lerneinheit erreichen soll. Nur wenn man ein klares Feinlernziel formuliert, kann es auch überprüft werden. Dies bietet wiederum die Möglichkeit, sein Handeln zu reflektieren und zu optimieren. '
       },
+     {
+        Frage: 'Was bedeutet didaktische Parallelität?',
+        Antwort: ''
+      },
+    {
+        Frage: 'Welche didaktischen Prinzipien kennst du?',
+        Antwort: ''
+      },
     ]
   ];
