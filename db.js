@@ -211,13 +211,93 @@ let Themen =
         Frage: 'Warum ist es wichtig, Feinlernziele zu formulieren?',
         Antwort: 'Feinlernziele geben eine Orientierung. Danach können die Ausbildungsmethode, der Lernort, der Lernbereich, die Kompetenzen usw. gewählt werden. Nach dem Lernziel sind die didaktischen Prinzipien aufzubauen.<br/><br/>Der Auszubildende weiß genau, was von ihm erwartet wird und was er mit der Lerneinheit erreichen soll. Nur wenn man ein klares Feinlernziel formuliert, kann es auch überprüft werden. Dies bietet wiederum die Möglichkeit, sein Handeln zu reflektieren und zu optimieren. '
       },
-     {
-        Frage: 'Was bedeutet didaktische Parallelität?',
-        Antwort: ''
+      {
+        Frage: 'Erkläre und erläutere die mögliche Gesprächsabfolge in einem Konfliktgespräch!',
+        Antwort: '● Ankündigung des Gesprächs, um sich vorbereiten zu können.<br/>● Angenehme und ruhige Atmosphäre<br/>● Austausch der Positionen<br/>● Suche nach Lösungswegen und Kompromissen<br/>● Vereinbarung zum nächsten Gespräch zur Überprüfung der Vereinbarung.'
       },
-    {
-        Frage: 'Welche didaktischen Prinzipien kennst du?',
-        Antwort: ''
+      {
+        Frage: 'Was ist an einem Feedback hilfreich?',
+        Antwort: '● Es hilft bei der Selbsteinschätzung und der Verbesserung der Handlungsprozesse.<br/><br/>● Es gibt Motivation und Anerkennung für Leistung.<br/><br/>● Es ist eine Möglichkeit zur Verbesserung der gemeinsamen Arbeit und des gegenseitigen Verstehens. (Stichwort: Blinder Fleck)'
       },
+      {
+        Frage: 'Was bedeutet die Aussage "Man kann nicht nicht kommunizieren." von Paul Watzlawik?',
+        Antwort: 'Kommunikation geschieht auf verbaler und non-verbaler Ebene. Sowohl das gesprochene Wort als auch Gestik und Mimik und sogar Schweigen gehören zur Kommunikation. Eine Antwort zu verweigern, wird daher vom Fragenden auch als eine Form der Antwort aufgefasst.'
+      },
+      {
+        Frage: 'Welche mögliche Ursache kann hinter einem aggressiven Verhalten von Auszubildenden stecken  und was kann man als Ausbilder*in zur Lösung beitragen?',
+        Antwort: '● Eine mögliche Ursache könnten Schwierigkeiten im Betrieb oder in der Beruffschule sein. Diese könnten im Bereich des Lernens bestehen.Frustration führt oft zu Aggression.<br/><br/>● Ausbilder*innen sollten ruhig und sachlich bleiben und das Gespräch suchen. Gemeinsam sollten passende Maßnahmen und Lösungen gefunden werden.'
+      },
+      {
+        Frage: 'Was kann man bei Lernschwierigkeiten von Auszubildenden tun?',
+        Antwort: 'Es wäre denkbar, die Ausbildungsmethoden anzupassen. Zudem sollte der Lerntyp und der Biorhythmus berücksichtigt werden. Unterstützende Stellen können ebenfalls einbezogen werden.'
+      },
+      {
+        Frage: 'Wie lange kann die Dauer der Probezeit sein?',
+        Antwort: 'Mindestens 1 Monat, maximal 4 Monate. (§20 BBiG)<br/><br/>Sie kann verlängert werden, wenn es eine Krankheitszeit von mindestens einem Drittel der vereinbarten Probezeit gibt.'
+      },
+      {
+        Frage: 'Welche Arten von Ausbildungsmethoden kennst du?',
+        Antwort: '● Dialogische - Ausbilder und Auszubildende haben einen ähnlich hohen Aktivitätsanteil.<br/><br/>● Erarbeitende - Die Aktivität des Auszubildenden ist sehr hoch. Durch den Ausbilder werden die Inhalte erarbeitet.<br/><br/>● Darbietende - Der Redeanteil des Ausbilders ist deutlich höher.'
+      },
+      {
+        Frage: 'Welche Stufen hat die 4-Stufen-Methode?',
+        Antwort: '● Vorbereiten<br/>● Vormachen und erklären<br/>● nachmachen und erklären lassen<br/>● Üben(auch in der praktischen Prüfung sollte Raum für die 4. Stufe sein).'
+      },
+      {
+        Frage: 'Was ist die modifizierte 4-Stufen-Methode und was ermöglicht diese?',
+        Antwort: 'Sie vereint die Stufen 2 und 3, indem sowohl Ausbilder als auch Auszubildende parallel an einem Werkstück arbeiten oder alternativ kann die Vorführphase aufgeteilt werden, sodass der Auszubildende schneller aktiviert wird.'
+      },
+      {
+        Frage: 'Welche Rolle nehmt ihr bei einer Präsentation ein und worauf müsst ihr achten?',
+        Antwort: 'Man nimmt als Ausbilder eine sehr aktive Rolle ein, da man einen großen Redeanteil hat.Die Präsentation sollte mindestens durch visuelle Medien, wie z.B. eine PowerPoint Präsentation begleitet werden. Zu achten ist vor allem auf die Präsentationstechnik, wie z.B. den Redefluss, die Gestik und Mimik und die Tonlage (paraverbale Aspekte der Kommunikation).'
+      },
+      {
+        Frage: 'Wann ist es ratsam ein Lehrgespräch als Methode zu nutzen?',
+        Antwort: 'Mit einem Lehrgespräch möchte man vor allem den kognitiven, wie auch den affektiven Lernbereich ansprechen und fördern. Man steigt in das Lehrgespräch ein, indem man das Lernziel formuliert, Vorkenntnisse abfragt und dann in das Thema einsteigt. Durch offene Fragen sollen die Inhalte gemeinsam erarbeitet werden. Danach wird das Ergebnis durch den Auszubildenden kontrolliert.'
+      },
+      {
+        Frage: 'Wann eignet sich die Projektmethode?',
+        Antwort: 'Die Projektmethode eignet sich bspw. für eine Gruppe von Azubis in unterschiedlichen, aber auch gleichen Ausbildungsjahren. Im Vordergrund steht die Förderung der Schlüsselqualifikationen.'
+      },
+      {
+        Frage: 'Welche Methoden eignen sich besonders, wenn man einer Gruppe von Auszubildenden Lerninhalte vermitteln will?',
+        Antwort: 'Die Gruppenarbeit, der Kurzvortrag, die Präsentation, die Projektmethode und das Planspiel.'
+      },
+      {
+        Frage: 'Welche Ausbildungsmittel können genutzt werden?',
+        Antwort: 'Alle Ausbildungsmittel, die für die Lerninhalte nützlich sind. Möglich sind bspw. Texte mit Bildern, Präsentationen, Videomaterial.'
+      },
+      {
+        Frage: 'Welche Fragearten sind dir bekannt? Beschreibe Sie kurz!',
+        Antwort: 'Wichtig sind v.a. die offenen und geschlossenen Fragen. Offene Fragen regen zum Nachdenken an und ermöglichen dem Ausbilder zu überprüfen, was der Azubi weiß oder verstanden hat. Geschlossene Fraggen werden mit Ja oder Nein beantwortet und eignen sich, wenn ganz klare Antworten benötigt werden, z.B. um Gefahrensituationen zu vermeiden.<br/><br/>Darüber hinaus gibt es noch Alternativfragen, Kontrollfragen, Suggestivfragen, rhetorische Fragen...'
+      },
+      {
+        Frage: 'Welche Vorteile bieten regelmäßige Beurteilungsgespräche?',
+        Antwort: '● Die Leistungen und die Fähigkeiten des Azubis werden anerkannt.<br/>● Selbstwertgefühl und Motivation werden gesteigert.<br/>● Selbst- und Fremdbild werden verglichen.<br/>● Grundlage für die Persönlichkeitsentwicklung und -planung<br/>● Die Eignung für den Beruf wird ersichtlich<br/>● Verkürzungen zustimmen<br/>● Etc.'
+      },
+      {
+        Frage: 'Gibt es eine Pflicht, Beurteilungen durchzuführen?',
+        Antwort: 'Der Gesetzgeber nennt eine Pflicht nicht konkret, allerdings sind Leistungsbeurteilungen eine gute Grundlage, wenn die Ausbildung verkürz werden soll. Der Betrieb wird in diesem Fall aufgefordert, die Leistungen des Auszubildenden zu beurteilen.'
+      },
+      {
+        Frage: 'Mit welchen Instrumenten können Leistungen beurteilt werden?',
+        Antwort: '● Tests<br/><br/>● Ausbildungsnachweise<br/><br/>● Prüfungen<br/><br/>● Etc.'
+      },
+      {
+        Frage: 'Nenne drei verschiedene Beurteilungsfehler und erläutere einen davon konkret!',
+        Antwort: '● Tendenz zur Strenge<br/>● Tendenz zur Mitte<br/>● Tendenz zur Milde<br/>● Andorra-Effekt<br/>● Halo-Effekt<br/>● Primär- oder Primacy Effekt<br/>● Rezenz-Effekt<br/>● Kontrastfehler'
+      },
+      {
+        Frage: 'Wann eignet sich ein Beurteilungsgespräch und wann ein Feedbackgespräch?',
+        Antwort: 'Das Beurteilungsgespräch eignet sich bspw. gut nach Ausbildungsabschnitten, vor dem Wechsel in eine andere Abteilung oder nach der Zwischenprüfung.'
+      },
+      {
+        Frage: 'Welche Beurteilungskriterien könnt ihr nennen?',
+        Antwort: 'Hier können alle Kompetenzbereiche eingebracht werden, da die berufliche Handlungsfähigkeit erreicht werden soll.'
+      },
+      {
+        Frage: 'Welche Arten von Beurteilungssystemen gibt es und welche Vorteile sind damit verbunden?',
+        Antwort: 'Es gibt geschlossene Beurteilungsysteme, bei denen man bspw. Zahlenwerte zu einem Kompetenzbereich ankreuzt. Diese Systeme kann man gut vergleichen und Fortschritte schneller erkennen. Offene Beurteilungssysteme geben Raum für eigene Notizen, sodass man ausführlicher das Verhalten beschreiben kann.'
+      }
     ]
   ];
