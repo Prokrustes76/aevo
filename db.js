@@ -148,7 +148,56 @@ let Themen =
       },
     ],
     // Teil 2
-    ,
+    ,[
+      {
+        Frage: 'Was sind Grundlagen der Ausbildungsplanung?',
+        Antwort: ''
+      },
+      {
+        Frage: 'Unterscheide Ausbildungsrahmenplan, betrieblicher Ausbildungsplan und Versetzungsplan!',
+        Antwort: ''
+      },
+      {
+        Frage: 'Was ist ein Betriebsrat?',
+        Antwort: ''
+      },
+      {
+        Frage: 'Was ist die Jugendausbildungsvertretung (JAV)?',
+        Antwort: ''
+      },
+      {
+        Frage: 'Wichtige Inhalte des Ausbildungsvertrags sind?',
+        Antwort: ''
+      },
+      {
+        Frage: 'Welche Pflichten hat der Auszubildende?',
+        Antwort: ''
+      },
+      {
+        Frage: 'Welche Pflichten hat der Ausbildende?',
+        Antwort: ''
+      },
+      {
+        Frage: 'Was ist die zuständige Stelle und welche gibt es?',
+        Antwort: ''
+      },
+      {
+        Frage: 'Stellen Sie bei der Auszubildendenauswahl das Anforderungsprofil dem Eignungsprofil gegenüber!',
+        Antwort: ''
+      },
+      {
+        Frage: 'Was sind Kooperationspartner während der Ausbildung?',
+        Antwort: ''
+      },
+      {
+        Frage: 'Welche Einschränkungen gibt es bei Jugendlichen?',
+        Antwort: ''
+      },
+      {
+        Frage: 'Welche Gewichtung hat das Berichtsheft/Ausbildungsnachweis?',
+        Antwort: ''
+      },
+    ],
     // Teil 3
     [
       {
