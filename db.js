@@ -148,7 +148,7 @@ let Themen =
       },
     ],
     // Teil 2
-    ,[
+    [
       {
         Frage: 'Was sind Grundlagen der Ausbildungsplanung?',
         Antwort: ''
